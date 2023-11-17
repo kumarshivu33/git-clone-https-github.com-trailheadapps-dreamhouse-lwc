@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-java@v2
         with:
           java-version: '11' # Use the appropriate Java version
-
+          distribution: 'temurin'
       - name: Download and unzip PMD
         run: |
           wget https://github.com/pmd/pmd/releases/download/pmd_releases%2F6.41.0/pmd-bin-6.41.0.zip
