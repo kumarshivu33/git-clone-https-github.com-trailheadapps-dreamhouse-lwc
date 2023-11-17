@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd>
+    <rule ref="rulesets/java/quickstart.xml"/>
+    <rule ref="category/apex/bestpractices.xml/ApexAssertionsShouldIncludeMessage" />
+    <rule ref="category/apex/bestpractices.xml/ApexUnitTestClassShouldHaveAsserts" />
+    <rule ref="category/apex/bestpractices.xml/ApexUnitTestShouldNotUseSeeAllDataTrue" />
+</pmd>
