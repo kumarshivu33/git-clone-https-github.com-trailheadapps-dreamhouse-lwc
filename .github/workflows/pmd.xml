@@ -4,4 +4,22 @@
     <rule ref="category/apex/bestpractices.xml/ApexAssertionsShouldIncludeMessage" />
     <rule ref="category/apex/bestpractices.xml/ApexUnitTestClassShouldHaveAsserts" />
     <rule ref="category/apex/bestpractices.xml/ApexUnitTestShouldNotUseSeeAllDataTrue" />
+    <rule ref="category/apex/bestpractices.xml/ApexUnitTestClassShouldHaveAsserts" />
+    <rule ref="category/apex/bestpractices.xml/ApexUnitTestClassShouldHaveRunAs" />
+    <rule ref="category/apex/bestpractices.xml/ApexUnitTestShouldNotUseSeeAllDataTrue" />
+    <rule ref="category/apex/bestpractices.xml/AvoidLogicInTrigger" />
+    <rule ref="category/apex/codestyle.xml/ClassNamingConventions" />
+    <rule ref="category/apex/codestyle.xml/FieldDeclarationsShouldBeAtStart" />
+    <rule ref="category/apex/codestyle.xml/FieldNamingConventions" />
+    <rule ref="category/apex/codestyle.xml/ForLoopsMustUseBraces" />
+    <rule ref="category/apex/codestyle.xml/ForLoopsMustUseBraces" />
+    <rule ref="category/apex/codestyle.xml/FormalParameterNamingConventions" />
+    <rule ref="category/apex/codestyle.xml/IfElseStmtsMustUseBraces" />
+    <rule ref="category/apex/codestyle.xml/IfStmtsMustUseBraces" />
+    <rule ref="category/apex/codestyle.xml/LocalVariableNamingConventions" />
+    <rule ref="category/apex/codestyle.xml/MethodNamingConventions" />
+    <rule ref="category/apex/codestyle.xml/OneDeclarationPerLine" />
+    <rule ref="category/apex/codestyle.xml/PropertyNamingConventions" />
+    <rule ref="category/apex/codestyle.xml/WhileLoopsMustUseBraces" />
+
 </pmd>
