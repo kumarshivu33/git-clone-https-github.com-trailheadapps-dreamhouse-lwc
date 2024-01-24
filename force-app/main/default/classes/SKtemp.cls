@@ -1,4 +1,3 @@
 temporary file {
-temporary message git ddd
-
+temporary message git added
 }
